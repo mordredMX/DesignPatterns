@@ -111,3 +111,15 @@ crashlytics.properties
 crashlytics-build.properties
 
 fabric.properties
+factory/.classpath
+factory/.project
+factory/.settings/org.eclipse.jdt.core.prefs
+*.prefs
+lambdasAndStreams/.classpath
+lambdasAndStreams/.project
+observer/.classpath
+observer/.project
+strategy/.classpath
+strategy/.project
+ThreadsAndConcurrency/.classpath
+ThreadsAndConcurrency/.project
